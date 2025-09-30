@@ -4,6 +4,8 @@ description: Study questions on working memory and attention.
 file: /courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2002/3ba4040cbae19e58b113c7fd89033f53_workingmemoryandattention.pdf
 file_size: 67858
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -4,6 +4,8 @@ description: Study questions on the cognitive neuroscience of memory.
 file: /courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2002/a2aedf8fa8d19677b5c10be4a62081c2_cognitiveneuroscienceandmemory.pdf
 file_size: 69437
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

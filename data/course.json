@@ -32,6 +32,7 @@
     "website": "9-012-the-brain-and-cognitive-sciences-ii-spring-2002"
   },
   "course_title": "The Brain and Cognitive Sciences II",
+  "hide_download": true,
   "course_description": "This course is the second half of the intensive survey of brain and behavioral studies for first-year graduate students in the Brain and Cognitive Sciences curriculum. Each module of this core course involves a series of overview lectures by leading researchers in the field. By offering a thorough introduction to the current state of the discipline while emphasizing critical thinking, the course aims to prepare students as cognitive scientists.\n\nTopics include: perception, attention, working memory, recognition and recall, language, and other issues in cognitive science. Topics are covered from the neural, behavioral and computational perspectives.\n",
   "department_numbers": [
     "9"
@@ -42,6 +43,7 @@
     "content": "f184ef63-ec1c-7b83-1549-05ac0d03e320",
     "website": "9-012-the-brain-and-cognitive-sciences-ii-spring-2002"
   },
+  "hide_download_original": true,
   "learning_resource_types": [],
   "site_uid": "5719d3ed-52d7-42a5-861c-706a762b5855",
   "site_short_id": "9.012-spring-2002",

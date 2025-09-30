@@ -4,6 +4,8 @@ description: Study questions on computational cognitive science.
 file: /courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2002/6d0a4023c78825b5c8c9e1b046e93d79_computationalcognitivescience.pdf
 file_size: 63361
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

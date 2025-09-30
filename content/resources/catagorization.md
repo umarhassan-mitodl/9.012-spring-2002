@@ -5,6 +5,8 @@ description: Study questions on categorization, similarity., latent semantic ana
 file: /courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2002/3652135946d1543ce546e5522c2105ae_catagorization.pdf
 file_size: 65035
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
